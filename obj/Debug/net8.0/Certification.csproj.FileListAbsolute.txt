@@ -1,0 +1,15 @@
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.AssemblyInfoInputs.cache
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.AssemblyInfo.cs
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.csproj.CoreCompileInputs.cache
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.sourcelink.json
+C:\Study\certification\Certification\bin\Debug\net8.0\Certification.exe
+C:\Study\certification\Certification\bin\Debug\net8.0\Certification.deps.json
+C:\Study\certification\Certification\bin\Debug\net8.0\Certification.runtimeconfig.json
+C:\Study\certification\Certification\bin\Debug\net8.0\Certification.dll
+C:\Study\certification\Certification\bin\Debug\net8.0\Certification.pdb
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.dll
+C:\Study\certification\Certification\obj\Debug\net8.0\refint\Certification.dll
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.pdb
+C:\Study\certification\Certification\obj\Debug\net8.0\Certification.genruntimeconfig.cache
+C:\Study\certification\Certification\obj\Debug\net8.0\ref\Certification.dll
