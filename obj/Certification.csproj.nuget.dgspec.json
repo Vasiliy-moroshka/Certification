@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Study\\Certification\\Certification\\Certification.csproj": {}
+    "C:\\Study\\certification\\Certification\\Certification.csproj": {}
   },
   "projects": {
-    "C:\\Study\\Certification\\Certification\\Certification.csproj": {
+    "C:\\Study\\certification\\Certification\\Certification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Study\\Certification\\Certification\\Certification.csproj",
+        "projectUniqueName": "C:\\Study\\certification\\Certification\\Certification.csproj",
         "projectName": "Certification",
-        "projectPath": "C:\\Study\\Certification\\Certification\\Certification.csproj",
+        "projectPath": "C:\\Study\\certification\\Certification\\Certification.csproj",
         "packagesPath": "C:\\Users\\бонсай\\.nuget\\packages\\",
-        "outputPath": "C:\\Study\\Certification\\Certification\\obj\\",
+        "outputPath": "C:\\Study\\certification\\Certification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\бонсай\\AppData\\Roaming\\NuGet\\NuGet.Config"
